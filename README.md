@@ -46,10 +46,9 @@ This acts as:
 `
 <br/>
 
-3. Run the project:
+3.Run the project:
 <br/>
-`
-npm run dev
+`npm run dev
 `
 <br/>
 
